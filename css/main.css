@@ -1,0 +1,217 @@
+body {
+    background-color: black;
+}
+
+p {
+    background-color: #000;
+}
+
+p {
+    background-color: rgba(0, 0, 0, .2);
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 24pt;
+}
+
+h3 {
+    font-family: serif;
+}
+
+h3 {
+    letter-spacing: 5px;
+}
+
+h3 {
+    background: linear-gradient(to right, #66f, #09f, #0f0, #f39, #66f);
+}
+
+h3 {
+    -webkit-background-clip: text;
+}
+
+h3 {
+    background-clip: text;
+}
+
+h3 {
+    color: transparent;
+}
+
+h3 {
+    animation: rainbow_animation 6s ease-in-out infinite;
+}
+
+h3 {
+    background-size: 400% 100%;
+}
+
+body {
+    background-image: url("/web/20220603220802im_/http://srpg6.groovestats.com/alien-dance.gif");
+}
+
+body {
+    background-repeat: no-repeat;
+}
+
+body {
+    background-position-x: right;
+}
+
+body {
+    background-position-y: bottom;
+}
+
+body {
+    background-size: 19% 34%;
+}
+
+@media (min-aspect-ratio: 10/3) {
+    body {
+        background: url("/web/20220603220802im_/http://srpg6.groovestats.com/stance.jpg") no-repeat center center fixed;
+    }
+
+    body {
+        background-size: cover;
+    }
+
+    body {
+        background-size: 110% 140%;
+    }
+
+    body {
+        background-position: center;
+    }
+
+    body {
+        visibility: hidden;
+    }
+}
+
+#alien1 {}
+
+iframe,
+#alien2 {
+    position: fixed;
+}
+
+iframe {
+    right: 0;
+}
+
+#alien2,
+iframe {
+    bottom: 0;
+}
+
+iframe {
+    min-width: 100%;
+}
+
+iframe {
+    min-height: 100%;
+}
+
+iframe {
+    width: auto;
+}
+
+#alien2 {
+    left: 0;
+}
+
+iframe {
+    height: auto;
+}
+
+h1 {
+    position: absolute;
+}
+
+h1 {
+    top: 50%;
+}
+
+#alien2 {
+    height: 120px;
+}
+
+#alien2 {
+    transform: rotate(25deg);
+}
+
+h1 {
+    color: white;
+}
+
+h1 {
+    z-index: 999;
+}
+
+#entry {
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#entry {
+    margin-left: auto;
+}
+
+#entry {
+    margin-bottom: auto;
+}
+
+#entry {
+    margin-right: auto;
+}
+
+h1 {
+    width: 100%;
+}
+
+#entry {
+    margin-top: auto;
+}
+
+h1 {
+    text-shadow: 0 0 10px #fff, 0 0 .208333333in #fff, 0 0 22.5pt #e60073, 0 0 40px #e60073, 0 0 .520833333in #e60073, 0 0 .625in #e60073, 0 0 52.5pt #e60073;
+}
+
+body {
+    margin-left: 0;
+}
+
+body {
+    margin-bottom: 0;
+}
+
+body {
+    margin-right: 0;
+}
+
+body {
+    margin-top: 0;
+}
+
+@keyframes rainbow_animation {
+
+    0%,
+    100% {
+        background-position: 0 0;
+    }
+
+    50% {
+        background-position: 100% 0;
+    }
+}
