@@ -55,7 +55,7 @@ h3 {
 }
 
 body {
-    background-image: url("/web/20220603220802im_/http://srpg6.groovestats.com/alien-dance.gif");
+    background-image: url("http://srpg6.groovestats.com/alien-dance.gif");
 }
 
 body {
@@ -76,7 +76,7 @@ body {
 
 @media (min-aspect-ratio: 10/3) {
     body {
-        background: url("/web/20220603220802im_/http://srpg6.groovestats.com/stance.jpg") no-repeat center center fixed;
+        background: url("http://srpg6.groovestats.com/stance.jpg") no-repeat center center fixed;
     }
 
     body {
