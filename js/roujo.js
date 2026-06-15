@@ -5,3 +5,7 @@ function roujo_yell() {
         alert("fuck chadwick");
     }
 }
+
+function roujo_admin_panel() {
+    alert("UNAUTHORIZED ACCESS");
+}
